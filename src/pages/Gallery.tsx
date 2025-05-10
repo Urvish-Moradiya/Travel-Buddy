@@ -86,7 +86,7 @@ const Gallery = () => {
         title="Our Gallery"
         subtitle="Explore breathtaking destinations through our lens"
         backgroundImage="https://images.unsplash.com/photo-1518495973542-4542c06a5843?q=80&w=2000&auto=format&fit=crop"
-        size="md"
+        size="sm"
         overlay="medium"
       />
       

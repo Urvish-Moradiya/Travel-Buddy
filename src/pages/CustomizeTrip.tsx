@@ -144,7 +144,7 @@ const CustomizeTrip = () => {
         title="Design Your Dream Trip"
         subtitle="Let us create a personalized travel experience just for you"
         backgroundImage="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2000&auto=format&fit=crop"
-        size="lg"
+        size="sm"
         overlay="medium"
       />
       

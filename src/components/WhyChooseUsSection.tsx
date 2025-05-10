@@ -54,7 +54,7 @@ const WhyChooseUs = ({ className }: WhyChooseUsProps) => {
     <section className={cn('py-16 md:py-24', className)}>
       <div className="container-custom">
         <div className="text-center mb-16">
-          <h2 className="section-title">Why Choose RavelXplorer?</h2>
+          <h2 className="section-title">Why Choose TravelBuddy?</h2>
           <p className="section-subtitle mx-auto">
             We're passionate about crafting meaningful travel experiences that create lifelong memories.
           </p>

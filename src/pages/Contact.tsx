@@ -31,7 +31,7 @@ const Contact = () => {
         title="Contact Us"
         subtitle="We'd love to hear from you. Get in touch with our travel experts."
         backgroundImage="https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=2000&auto=format&fit=crop"
-        size="md"
+        size="sm"
         overlay="medium"
       />
       

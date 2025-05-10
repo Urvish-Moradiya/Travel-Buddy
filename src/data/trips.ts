@@ -33,7 +33,6 @@ export const trips: Trip[] = [
       "https://images.unsplash.com/photo-1537996194471-e657df975ab4?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1552733407-5d5c46c3bb3b?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1501179691627-eeaa65ea017c?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1470653503930-46bff4009c5f?q=80&w=800&auto=format&fit=crop"
     ],
     rating: 4.8,
     reviews: 124,
@@ -85,7 +84,6 @@ export const trips: Trip[] = [
     image: "https://images.unsplash.com/photo-1527668752968-14dc70a27c95?q=80&w=1200&auto=format&fit=crop",
     gallery: [
       "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1580921673177-cce7526f0060?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1573126617899-41f1dffb196c?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1531210483974-4f8c1f33fd35?q=80&w=800&auto=format&fit=crop"
     ],
@@ -137,9 +135,6 @@ export const trips: Trip[] = [
     image: "https://images.unsplash.com/photo-1518182170546-07661fd94144?q=80&w=1200&auto=format&fit=crop",
     gallery: [
       "https://images.unsplash.com/photo-1589659078542-e42f1701159d?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1591017683260-128c6add149a?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1518555976592-c8b6d14de00e?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1535221413453-349d0ce3c72a?q=80&w=800&auto=format&fit=crop"
     ],
     rating: 4.7,
     reviews: 103,
@@ -189,8 +184,6 @@ export const trips: Trip[] = [
     price: 2899,
     image: "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?q=80&w=1200&auto=format&fit=crop",
     gallery: [
-      "https://images.unsplash.com/photo-1568322445389-f8dfdae33c85?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1562693315-80fcae6966f8?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1569230516306-5a8cb5586399?q=80&w=800&auto=format&fit=crop"
     ],
@@ -299,10 +292,7 @@ export const trips: Trip[] = [
     price: 2299,
     image: "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?q=80&w=1200&auto=format&fit=crop",
     gallery: [
-      "https://images.unsplash.com/photo-1548017361-7a2680f9a8e7?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1539020140153-e71ab23511f3?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1489493887464-892be6d1daae?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1531660963566-c61eaee3f3ab?q=80&w=800&auto=format&fit=crop"
     ],
     rating: 4.7,
     reviews: 94,
@@ -355,8 +345,6 @@ export const trips: Trip[] = [
     image: "https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=1200&auto=format&fit=crop",
     gallery: [
       "https://images.unsplash.com/photo-1506665531195-3566af2b4dfa?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1598975157262-443f757fdd09?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1580224716654-a515866ae34d?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1504214208698-ea1916a2195a?q=80&w=800&auto=format&fit=crop"
     ],
     rating: 4.6,
@@ -409,7 +397,6 @@ export const trips: Trip[] = [
     image: "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?q=80&w=1200&auto=format&fit=crop",
     gallery: [
       "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1577007683422-d5d7b0a3d6e1?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1543169108-32ac15a21e05?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?q=80&w=800&auto=format&fit=crop"
     ],
@@ -464,8 +451,6 @@ export const trips: Trip[] = [
     image: "https://images.unsplash.com/photo-1526392060635-9d6019884377?q=80&w=1200&auto=format&fit=crop",
     gallery: [
       "https://images.unsplash.com/photo-1565452344681-47b30863e977?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1531761535209-180857e963d9?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1553550591-fc2f58e22789?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1580619305218-8423a7ef79b4?q=80&w=800&auto=format&fit=crop"
     ],
     rating: 4.8,
@@ -520,7 +505,6 @@ export const trips: Trip[] = [
       "https://images.unsplash.com/photo-1530841377377-3ff06c0ca713?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1570077188758-77cc7205e672?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1555962414-5c79698c953a?q=80&w=800&auto=format&fit=crop"
     ],
     rating: 4.9,
     reviews: 91,
@@ -668,5 +652,45 @@ export const testimonials = [
     quote: "Costa Rica was amazing! We saw so much wildlife - sloths, toucans, monkeys - and the rainforest hikes were incredible. The eco-lodges were comfortable and sustainable.",
     rating: 5,
     image: "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=300&auto=format&fit=crop"
-  }
+  },
+  {
+    id: 5,
+    name: "Sarah Johnson",
+    location: "New York, USA",
+    quote: "Our trip to Bali with RavelXplorer was truly magical. The itinerary was perfectly balanced between adventure and relaxation. Our guide was knowledgeable and funny - made the experience unforgettable!",
+    rating: 5,
+    image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    id: 6,
+    name: "David Wilson",
+    location: "London, UK",
+    quote: "The Swiss Alps Adventure exceeded all my expectations. The accommodations were top-notch and the hiking routes were breathtaking. I'll definitely book with RavelXplorer again!",
+    rating: 5,
+    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    id: 7,
+    name: "Michelle Rodriguez",
+    location: "Barcelona, Spain",
+    quote: "Egypt was a dream destination for me, and RavelXplorer made it perfect. Our Egyptologist guide was incredibly knowledgeable and passionate. The Nile cruise was the highlight!",
+    rating: 4,
+    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    id: 8,
+    name: "James Chen",
+    location: "Sydney, Australia",
+    quote: "Costa Rica was amazing! We saw so much wildlife - sloths, toucans, monkeys - and the rainforest hikes were incredible. The eco-lodges were comfortable and sustainable.",
+    rating: 5,
+    image: "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    id: 9,
+    name: "David Wilson",
+    location: "London, UK",
+    quote: "The Swiss Alps Adventure exceeded all my expectations. The accommodations were top-notch and the hiking routes were breathtaking. I'll definitely book with RavelXplorer again!",
+    rating: 5,
+    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=300&auto=format&fit=crop"
+  },
 ];
