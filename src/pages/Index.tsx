@@ -27,7 +27,7 @@ const Index = () => {
           // Smooth transition to home page after assets are loaded
           const timer = setTimeout(() => {
             navigate('/home');
-          }, 800);
+          }, 1000);
           return () => clearTimeout(timer);
         }
       };
@@ -48,7 +48,7 @@ const Index = () => {
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-teal-500 to-teal-600">
       <div className="animate-fade-in text-center">
         <h1 className="text-4xl md:text-5xl font-display font-bold text-white mb-4">
-          TravelBuddy
+          Travel Buddy
         </h1>
         <p className="text-white/80 text-lg">Taking you to amazing destinations...</p>
         <div className="mt-6 w-16 h-1 bg-white/50 mx-auto rounded-full animate-pulse"></div>

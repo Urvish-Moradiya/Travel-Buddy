@@ -33,7 +33,7 @@ const Home = () => {
     <Layout>
       <HeroSection 
         title="Discover Your Dream Destination"
-        subtitle="Unforgettable journeys begin with RavelXplorer. Experience the world's wonders with expert guidance and personalized adventures."
+        subtitle="Unforgettable journeys begin with Travel Buddy. Experience the world's wonders with expert guidance and personalized adventures."
         backgroundImage="https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=2000&auto=format&fit=crop"
         buttonText="Start Your Journey"
         buttonLink="/trips"

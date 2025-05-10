@@ -45,7 +45,7 @@ const Navbar = () => {
             isScrolled ? 'text-teal-500' : 'text-white'
           )}
         >
-          TravelBuddy
+          Travel Buddy
         </Link>
 
         {/* Desktop Navigation */}
