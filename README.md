@@ -19,23 +19,15 @@ A modern and responsive portfolio website for a real estate developer, built usi
 
 ## 🚀 Tech Stack
 
-- **Frontend**: React.js, HTML5, CSS3, JavaScript
+- **Frontend**: React.js, HTML5, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Routing**: React Router
-- **Styling**: CSS Modules / Tailwind CSS / Bootstrap *(Specify which one you used)*
+- **Styling**: Tailwind CSS, Shadcn/ui 
 - **Version Control**: Git & GitHub
 
 ---
 
-## 📩 Contact / Enquiry Form
-
-- Built-in form to capture user name, email, and message
-- Easily configurable with services like:
-  - Nodemailer (for backend email handling)
-  - EmailJS / Formspree (for frontend-only approach)
-
----
 
 
 
